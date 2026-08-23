@@ -6,19 +6,16 @@ MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
 
-Hallo zusammen,
+Guten Tag,
 
-anbei das Ergebnis aus den OP-Hedges der 6207 per 24.08.2026. Daraus ergibt sich folgendes Resultat:
+anbei die FX-Netting-Auswertung für L_6207_CZ zum Valutadatum 2026-08-24.
 
-Per 24.08.2026: Rechnung von 0100 an 6207 über EUR -8.238,21.
+Summierte Differenzen (Diff. in GC):
+- CNY: -8.238,21 (Diff. in GC) – Rechnung
 
-Das Ergebnis wurde im Netting verrechnet und somit auf den Clearingkonten verbucht. Details sind ebenfalls in der Final Netting Message zu finden (6207 und 0100).
+Die Detailauswertung ist als Anlage beigefügt.
 
-Bitte entsprechend in SAP buchen.
-
-Vielen Dank.
-
-Mit freundlichen Grüßen
+Freundliche Grüße
 
 Group Treasury
 Normen
