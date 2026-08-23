@@ -5,18 +5,19 @@ MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
 
-Guten Tag,
+Hallo zusammen,
 
-anbei die FX-Netting-Auswertung für L_6221_AT zum Valutadatum 2026-08-24.
+anbei das Ergebnis aus den OP-Hedges der 6221 per 24.08.2026. Daraus ergibt sich folgendes Resultat:
 
-Summierte Differenzen (Diff. in GC):
-- CNY: -2.449,19 (Diff. in GC) – Rechnung
-- INR: -5.010,34 (Diff. in GC) – Rechnung
-- USD: -2.943,66 (Diff. in GC) – Rechnung
+Per 24.08.2026: Rechnung von 0100 an 6221 über EUR -10.403,19.
 
-Die Detailauswertung ist als Anlage beigefügt.
+Das Ergebnis wurde im Netting verrechnet und somit auf den Clearingkonten verbucht. Details sind ebenfalls in der Final Netting Message zu finden (6221 und 0100).
 
-Freundliche Grüße
+Bitte entsprechend in SAP buchen.
+
+Vielen Dank.
+
+Mit freundlichen Grüßen
 
 Group Treasury
 Normen

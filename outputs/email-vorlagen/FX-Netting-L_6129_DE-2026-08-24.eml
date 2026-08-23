@@ -5,28 +5,19 @@ MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
 
-Guten Tag,
+Hallo zusammen,
 
-anbei die FX-Netting-Auswertung für L_6129_DE zum Valutadatum 2026-08-24.
+anbei das Ergebnis aus den OP-Hedges der 6129 per 24.08.2026. Daraus ergibt sich folgendes Resultat:
 
-Summierte Differenzen (Diff. in GC):
-- AUD: 401,43 (Diff. in GC) – Gutschrift
-- CNY: -86.439,02 (Diff. in GC) – Rechnung
-- CZK: -317,62 (Diff. in GC) – Rechnung
-- GBP: 2.278,04 (Diff. in GC) – Gutschrift
-- HKD: -48.500,14 (Diff. in GC) – Rechnung
-- INR: -15.687,02 (Diff. in GC) – Rechnung
-- KRW: 1.235,33 (Diff. in GC) – Gutschrift
-- PLN: -206,49 (Diff. in GC) – Rechnung
-- SAR: -3.638,44 (Diff. in GC) – Rechnung
-- SGD: 1.479,19 (Diff. in GC) – Gutschrift
-- THB: -3.505,74 (Diff. in GC) – Rechnung
-- TWD: -7.026,36 (Diff. in GC) – Rechnung
-- USD: -42.744,44 (Diff. in GC) – Rechnung
+Per 24.08.2026: Rechnung von 0100 an 6129 über EUR -202.671,28.
 
-Die Detailauswertung ist als Anlage beigefügt.
+Das Ergebnis wurde im Netting verrechnet und somit auf den Clearingkonten verbucht. Details sind ebenfalls in der Final Netting Message zu finden (6129 und 0100).
 
-Freundliche Grüße
+Bitte entsprechend in SAP buchen.
+
+Vielen Dank.
+
+Mit freundlichen Grüßen
 
 Group Treasury
 Normen
